@@ -416,7 +416,7 @@ html body .container form select{
 }
 /*=====================================================================================*/
 
-@media (orientation: landscape)  {
+@media (orientation: landscape) and  (max-device-width: 700px) {
     body .header .image_header {
         width: 100%;
         height: 105vh;
@@ -589,7 +589,7 @@ body .container .header{
 }
 /*==================================================================*/
 .header .text{
-    height: 138vh;
+    height: 130vh;
     margin-left: 0px;
     padding: 0px;
 }
@@ -624,7 +624,7 @@ body .container .header{
 body .header section{
     width: 100%;
     margin-left: 0px;
-    margin-top: -45vh;
+    margin-top: -40vh;
 }
 .blocksDivs{
     display: flex;
@@ -656,7 +656,7 @@ body .header section{
 }
 /*=====================================================================================*/
 .all_form{
-    margin-top: 100vh;
+    margin-top: 93vh;
 }
 .all_form .global_lines{
     display: flex;
@@ -727,7 +727,7 @@ body .container .header{
 }
 /*==================================================================*/
 .header .text{
-    height: 145vh;
+    height: 130vh;
     margin-left: 0px;
     padding: 0px;
 }
@@ -794,7 +794,7 @@ body .container .header{
 }
 /*=====================================================================================*/
 .all_form{
-    margin-top: 110vh;
+    margin-top: 95vh;
 }
 .all_form .global_lines{
     display: flex;
@@ -1822,151 +1822,38 @@ body .container .header{
     width: 100%;
     height: 150vh !important;
 }
-/*==================================================================*/
-.header .text{
-    height: 330vh !important;
-    margin-left: 0px;
-    font-weight: bold;
-    padding: 0px;
+.logo{
+    position: absolute;
+    top: 20px;
+    right: 20px;
 }
-.text div{
-    margin-bottom: 15px;
-}
-.text .spanh1{
-    font-size: 90px;
-    line-height: 100px;
-}
-.text .sec1Span{
-    font-size: 70px;
-    line-height: 80px;
-    margin-left: 30px;
-    color: black;
-}
-.text .sec2Span{
-    font-size: 70px;
-    line-height: 80px;
-    margin-right: 190px;
-    color: black;
-}
-.text button{
-    font-size: 35px;
-    font-weight: 500 ;
-    line-height: 20px;
-    width: 800px;
-    height: 60px;
+.logo img{
+    width: 100px;
+    height: 100px;
 }
 /*==================================================================*/
-.header section{
-    width: 100%;
-    margin-left: 0px;
-    margin-top: -120vh !important;
-}
-.blocksDivs{
-    display: flex;
-    justify-content: flex-start;
-}
-.blocksDivs div img{
-    width: 80px;
-    height: 80px;
-}
-.blocksDivs div{
-    width: 100%;
-}
-.blocksDivs div h3{
-    font-size: 30px;
-    line-height: 40px;
-    font-weight: bold;
-}
-.lheight{
-    line-height: 50px !important;
-}
-.blocksDivs div h3 span{
-    font-size: 45px;
-}
-.line{
-    border-left: 2px solid #98989880;
-    margin-left: 10px !important;
-} 
-/*=====================================================================================*/
-.all_form{
-    margin-top: 215vh !important;
-}
 .all_form .global_lines{
     gap: 64px;
 }
-.header .image_header {
-    width: 100%;
-    height: 130vh;
-}
-/*==================================================================*/
-.text{
-    height: 300vh;
-    margin-left: 0px;
-    font-weight: bold;
-    padding: 0px;
-}
-.text div{
-    margin-bottom: 15px;
-}
-.text .spanh1{
-    font-size: 90px;
-    line-height: 100px;
-}
-.text .sec1Span{
-    font-size: 70px;
-    line-height: 80px;
-    margin-left: 30px;
-    color: black;
-}
-.text .sec2Span{
-    font-size: 70px;
-    line-height: 80px;
-    margin-right: 190px;
-    color: black;
-}
-/*==================================================================*/
-.header section{
-    width: 100%;
-    margin-left: 0px;
-    margin-top: -105vh;
-}
-.blocksDivs{
-    display: flex;
-    justify-content: flex-start;
-}
-.blocksDivs div img{
-    width: 80px;
-    height: 80px;
-}
-.blocksDivs div{
-    width: 100%;
-}
-.blocksDivs div h3{
-    font-size: 30px;
-    line-height: 40px;
-    font-weight: bold;
-}
-.lheight{
-    line-height: 50px !important;
-}
-.blocksDivs div h3 span{
-    font-size: 45px;
-}
-.line{
-    border-left: 2px solid #98989880;
-    margin-left: 10px !important;
-}
 /*=====================================================================================*/
 .all_form{
-    margin-top: 200vh;
+    margin-top: 140vh;
 }
 .all_form input,
 select{
-    width: 500px;
+    width: 450px;
 }
 .btn .submit-btn img{
     margin-top: 4px;
     width: 12px;
+}
+.blocksDivs div h3{
+    font-size: 20px;
+    line-height: 40px;
+    font-weight: bold;
+}
+body .header section{
+    margin-left: 220px !important;
 }
 /*=====================================================================================*/
 .footer {
