@@ -714,7 +714,7 @@ body .container .header{
 }
 .header .image_header {
     width: 100%;
-    height: 65vh;
+    height: 55vh;
 }
 .logo{
     position: absolute;
@@ -727,7 +727,7 @@ body .container .header{
 }
 /*==================================================================*/
 .header .text{
-    height: 155vh;
+    height: 145vh;
     margin-left: 0px;
     padding: 0px;
 }
@@ -762,7 +762,7 @@ body .container .header{
 .header section{
     width: 100%;
     margin-left: 0px;
-    margin-top: -50vh;
+    margin-top: -42vh;
 }
 .blocksDivs{
     display: flex;
@@ -850,7 +850,7 @@ body .container .header{
 }
 .header .image_header {
     width: 100%;
-    height: 65vh;
+    height: 58vh;
 }
 .logo{
     position: absolute;
@@ -862,8 +862,8 @@ body .container .header{
     height: 90px;
 }
 /*==================================================================*/
-.header .text{
-    height: 155vh;
+body .header .text{
+    height: 148vh;
     margin-left: 0px;
     padding: 0px;
 }
@@ -898,7 +898,7 @@ body .container .header{
 .header section{
     width: 100%;
     margin-left: 0px;
-    margin-top: -50vh;
+    margin-top: -43vh;
 }
 .blocksDivs{
     display: flex;
@@ -930,7 +930,7 @@ body .container .header{
 }
 /*=====================================================================================*/
 .all_form{
-    margin-top: 110vh;
+    margin-top: 112vh;
 }
 /*=====================================================================================*/
 .all_form .global_lines{
@@ -978,7 +978,7 @@ html body .container form select{
 }
 }
 /*=============================================================================================================*/
-@media screen and (min-width:520px) and (max-width:640px){
+@media screen and (min-width:521px) and (max-width:640px){
 body{
 max-width: 100%;
 }
@@ -987,7 +987,7 @@ body .container .header{
 }
 .header .image_header {
     width: 100%;
-    height: 80vh;
+    height: 65vh;
 }
 .logo{
     position: absolute;
@@ -1000,7 +1000,7 @@ body .container .header{
 }
 /*==================================================================*/
 .header .text{
-    height: 190vh;
+    height: 175vh;
     margin-left: 0px;
     padding: 0px;
 }
@@ -1008,19 +1008,19 @@ body .container .header{
     margin-bottom: 15px;
 }
 .text .spanh1{
-    font-size: 70px;
+    font-size: 65px;
     line-height: 80px;
 }
 .text .sec1Span{
-    font-size: 45px;
+    font-size: 40px;
     line-height: 50px;
     margin-left: 5px;
     color: black;
 }
 .text .sec2Span{
-    font-size: 45px;
+    font-size: 50px;
     line-height: 50px;
-    margin-right: 110px;
+    margin-right: 50px;
     color: black;
 }
 .text button{
@@ -1035,7 +1035,7 @@ body .container .header{
 .header section{
     width: 100%;
     margin-left: 0px;
-    margin-top: -55vh;
+    margin-top: -45vh;
 }
 .blocksDivs{
     display: flex;
@@ -1067,7 +1067,7 @@ body .container .header{
 }
 /*=====================================================================================*/
 .all_form{
-    margin-top: 150vh;
+    margin-top: 140vh;
 }
 .all_form .global_lines{
     display: flex;
