@@ -416,7 +416,7 @@ html body .container form select{
 }
 /*=====================================================================================*/
 
-@media (orientation: landscape) and  (max-device-width: 700px) {
+@media screen and (orientation: landscape) and  (max-device-width: 1000px) {
     body .header .image_header {
         width: 100%;
         height: 105vh;
@@ -436,7 +436,7 @@ html body .container form select{
     }
 }
 /*=============================================================================================================*/
-@media screen and (min-width:300px) and (max-width: 360px){
+@media screen and (orientation: portrait) and (min-width:300px) and (max-width: 360px){
 body{
     max-width: 100%;
 }
@@ -567,7 +567,7 @@ html body .container select{
 }
 }
 /*=============================================================================================================*/
-@media screen and (min-width:360px) and (max-width: 410px){
+@media screen and (orientation: portrait) and (min-width:360px) and (max-width: 410px){
 body{
     max-width: 100%;
 }
@@ -624,7 +624,7 @@ body .container .header{
 body .header section{
     width: 100%;
     margin-left: 0px;
-    margin-top: -40vh;
+    margin-top: -43vh;
 }
 .blocksDivs{
     display: flex;
@@ -705,7 +705,7 @@ html body .container form select{
 /*=============================================================================================================*/
 }
 /*=============================================================================================================*/
-@media screen and (min-width:410px) and (max-width: 462px){
+@media screen and (orientation: portrait) and (min-width:410px) and (max-width: 462px){
 body{
     max-width: 100%;
 }
@@ -841,7 +841,7 @@ html body .container form select{
 }
 }
 /*=============================================================================================================*/
-@media screen and (min-width:462px) and (max-width: 520px){
+@media screen and (orientation: portrait) and (min-width:462px) and (max-width: 520px){
 body{
     max-width: 100%;
 }
@@ -978,7 +978,7 @@ html body .container form select{
 }
 }
 /*=============================================================================================================*/
-@media screen and (min-width:521px) and (max-width:640px){
+@media screen and (orientation: portrait) and (min-width:521px) and (max-width:640px){
 body{
 max-width: 100%;
 }
@@ -1114,7 +1114,7 @@ html body .container form select{
 }
 }
 /*=============================================================================================================*/
-@media screen and (min-width:641px) and (max-width: 730px) {
+@media screen and (orientation: portrait) and (min-width:641px) and (max-width: 730px) {
 body{
 max-width: 100%;
 }
@@ -1248,7 +1248,7 @@ html body .container form select{
 }
 }
 /*=============================================================================================================*/
-@media screen and (min-width:730px) and (max-width: 760px){
+@media screen and (orientation: portrait) and (min-width:730px) and (max-width: 760px){
 body{
 max-width: 100%;
 }
@@ -1452,7 +1452,7 @@ html body .container form select{
 }
 }
 /*=============================================================================================================*/
-@media screen and (min-width:761px) and (max-width:872px){
+@media screen  and (min-width:761px) and (max-width:872px){
 body{
 max-width: 100%;
 }
@@ -1810,7 +1810,7 @@ select{
 }
 }
 /*=============================================================================================================*/
-@media screen and (min-width:1201px) and (max-width:1435px){
+@media screen and (orientation: portrait) and (min-width:1201px) and (max-width:1435px){
 body{
 max-width: 100%;
 overflow-x: hidden !important;
