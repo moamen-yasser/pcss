@@ -286,7 +286,7 @@ body .container .header{
 /*===========================================================*/
 body .header .image_header {
     width: 100%;
-    height: 50vh;
+    height: 45vh;
 }
 .logo{
     position: absolute;
@@ -299,7 +299,7 @@ body .header .image_header {
 }
 /*==================================================================*/
 html body .header .text{
-    height: 130vh;
+    height: 120vh;
     margin-left: 0px;
     padding: 0px;
     font-weight: 900;
@@ -335,7 +335,7 @@ html body .header .text{
 body .header section{
     width: 100%;
     margin-left: 0px;
-    margin-top: -40vh;
+    margin-top: -32vh;
 }
 .blocksDivs{
     display: flex;
@@ -429,7 +429,7 @@ html body .container form select{
     body .header section{
         width: 100%;
         margin-left: 0px;
-        margin-top: -65vh;
+        margin-top: -70vh;
     }
     body .all_form{
         margin-top: 200vh;
@@ -445,7 +445,7 @@ body{
 }
 .header .image_header {
     width: 100%;
-    height: 65vh;
+    height: 50vh;
 }
 .logo{
     position: absolute;
@@ -458,7 +458,7 @@ body{
 }
 /*==================================================================*/
 .header .text{
-    height: 155vh;
+    height: 130vh;
     margin-left: 0px;
     padding: 0px;
 }
@@ -493,7 +493,7 @@ body{
 .header section{
     width: 100%;
     margin-left: 0px;
-    margin-top: -55vh;
+    margin-top: -38vh;
 }
 .blocksDivs{
     display: flex;
@@ -525,7 +525,7 @@ body{
 }
 /*=====================================================================================*/
 .all_form{
-    margin-top: 110vh;
+    margin-top: 100vh;
 }
 .all_form .global_lines{
     display: flex;
@@ -576,7 +576,7 @@ body .container .header{
 }
 .header .image_header {
     width: 100%;
-    height: 65vh;
+    height: 55vh;
 }
 .logo{
     position: absolute;
@@ -589,7 +589,7 @@ body .container .header{
 }
 /*==================================================================*/
 .header .text{
-    height: 155vh;
+    height: 145vh;
     margin-left: 0px;
     padding: 0px;
 }
@@ -624,7 +624,7 @@ body .container .header{
 body .header section{
     width: 100%;
     margin-left: 0px;
-    margin-top: -50vh;
+    margin-top: -45vh;
 }
 .blocksDivs{
     display: flex;
@@ -656,7 +656,7 @@ body .header section{
 }
 /*=====================================================================================*/
 .all_form{
-    margin-top: 110vh;
+    margin-top: 105vh;
 }
 .all_form .global_lines{
     display: flex;
