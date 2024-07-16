@@ -299,7 +299,7 @@ body .header .image_header {
 }
 /*==================================================================*/
 html body .header .text{
-    height: 120vh;
+    height: 115vh;
     margin-left: 0px;
     padding: 0px;
     font-weight: 900;
@@ -367,7 +367,7 @@ body .header section{
 }
 /*=====================================================================================*/
 body .all_form{
-    margin-top: 95vh;
+    margin-top: 88vh;
 }
 .all_form .global_lines{
     display: flex;
@@ -589,7 +589,7 @@ body .container .header{
 }
 /*==================================================================*/
 .header .text{
-    height: 145vh;
+    height: 138vh;
     margin-left: 0px;
     padding: 0px;
 }
@@ -656,7 +656,7 @@ body .header section{
 }
 /*=====================================================================================*/
 .all_form{
-    margin-top: 105vh;
+    margin-top: 100vh;
 }
 .all_form .global_lines{
     display: flex;
